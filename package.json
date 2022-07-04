@@ -1,0 +1,19 @@
+{
+  "name": "asyncjscourseplatzi",
+  "version": "1.0.0",
+  "description": "Async Js course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khisus19/asyncJSCoursePlatzi.git"
+  },
+  "author": "Khisus19 <khisus19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khisus19/asyncJSCoursePlatzi/issues"
+  },
+  "homepage": "https://github.com/khisus19/asyncJSCoursePlatzi#readme"
+}
